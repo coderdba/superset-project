@@ -1,0 +1,3 @@
+1. Create a Oracle Linux7 VM using Vagrantfile and Virtualbox
+2. Install superset as described in superset-kb
+3. Access superset with localhost:8088
